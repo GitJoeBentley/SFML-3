@@ -1,1 +1,1 @@
-Wandering Star is a SFML demonstration example.  The code was modified for SFML 3.0.0
+These are C++ application games built with SFML 3.0.0
